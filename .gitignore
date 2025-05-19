@@ -152,3 +152,14 @@ media/
 build_tests/
 yap_testing
 html/img/img/
+
+# Игнорировать статические файлы
+static/
+static-dev/
+html/
+venv/
+.vscode/
+.mypy_cache/
+tests/
+blogicum1/tests
+mypy.ini
